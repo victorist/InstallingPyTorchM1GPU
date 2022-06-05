@@ -187,4 +187,4 @@ Sample program - in file `main.py`
 
 During the execution of this program, you can observe the loading of M1 graphics cores.
 
-![M1 GPU process](/InstallingPyTorchM1GPU/m1-gpu-process.png)
+![M1 GPU process](m1-gpu-process.png)
